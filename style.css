@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.t1{
+    height: 500px;
+    width: 90%;
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px solid rgb(253, 3, 3);
+
+}
